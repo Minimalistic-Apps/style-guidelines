@@ -2,7 +2,9 @@
 
 ## Icons
 - Icon color: `#087d89`
-- Background color: `#ffffff`
+- Background color
+  - Light mode: `#ffffff` 
+  - Dark mode: `#22272b`
 - Sharp, not rounded, filled
 - Using standard set of incons from Android clip-arts
 
