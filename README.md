@@ -4,7 +4,7 @@
 - Brand color (header, menu, buttons): `#087d89`
 - Background color
   - Light mode: `#ffffff` 
-  - Dark mode: `#121212
+  - Dark mode: `#121212`
 
 ## Icons
 - Icon color: `#087d89`
